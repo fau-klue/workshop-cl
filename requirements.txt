@@ -1,0 +1,12 @@
+trafilatura
+stanza
+somajo
+someweta
+spacy
+numpy
+pandas
+matplotlib
+networkx
+plotly
+association-measures
+beautifulsoup4

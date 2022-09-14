@@ -1,0 +1,5 @@
+workshop-notes.md
+venv
+*~
+*.pyc
+__pycache__/
