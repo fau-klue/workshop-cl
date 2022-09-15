@@ -31,4 +31,4 @@
 - Netzwerkanalysen
     - [notebook](notebooks/network-analysis.ipynb)
 - neuronale Embeddings
-    - gensim
+    - [notebook](notebooks/word-embeddings.ipynb)

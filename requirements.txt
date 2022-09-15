@@ -10,3 +10,4 @@ networkx
 plotly
 association-measures
 beautifulsoup4
+gensim
